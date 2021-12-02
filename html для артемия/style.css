@@ -1,0 +1,34 @@
+body{
+    background-image: url(image/fon.jpg); /* в папочке image лежит картинка с названием fon.jpg */
+    background-size: 1920px , 1080px;
+}
+table {
+    width: 100%;
+    margin-bottom: 30px;
+    border: 5px solid #797583;
+    border-collapse: collapse;
+}
+table th{
+    font-weight: bold;
+    padding: 5px;
+    background: #dad0ce;
+    border: 5px solid #797583;
+}
+table td {
+    border: 5px solid #797583;
+    background: #dad0ce;
+    padding: 5px;
+
+}
+
+
+.block1 {
+    width: 200px;
+    position: relative;}
+.block2{
+    width: 200px;
+    float: top;
+    position: center;}
+.block3 {
+    width: 200px;}
+
