@@ -1,5 +1,5 @@
 body{
-    background-image: url(image/fon.jpg); /* в папочке image лежит картинка с названием fon.jpg */
+    background-image: url(static/image/fon.jpg); /* в папочке image лежит картинка с названием fon.jpg */
     background-size: 1920px , 1080px;
     background-repeat:no-repeat;
 }
